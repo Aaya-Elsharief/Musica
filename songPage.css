@@ -1,0 +1,44 @@
+.title h1 ,p {
+	
+	text-align: right;
+	font-family: DecoType Naskh Variants;
+	
+}
+.title {
+	opacity: 85%;
+}
+
+.title p{
+	font-size: 18px;}
+.title h1{
+	font-size: 100px;}
+
+
+audio:hover, audio:focus, audio:active
+{
+-webkit-box-shadow: 15px 15px 20px rgba(150,71, 9, 0.6);
+-moz-box-shadow: 15px 15px 20px rgba(150,71, 9, 0.6);
+box-shadow: 15px 15px 20px rgba(150,71, 9, 0.6);
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}
+
+
+audio
+{  
+	width: 60%;
+	height: 20%
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+-moz-box-shadow: 2px 2px 4px 0px #b57e52;
+-webkit-box-shadow:  2px 2px 4px 0px #b57e52;
+box-shadow: 2px 2px 4px 0px #b57e52;
+-moz-border-radius:7px 7px 7px 7px ;
+-webkit-border-radius:7px 7px 7px 7px ;
+border-radius:7px 7px 7px 7px ;
+	margin-left: 250px;
+	
+}
